@@ -1,10 +1,12 @@
 # LibreHealth - GSOC 2020
 
+## Readme
+
 _An android application for healthcare workers in Kenya to capture birth information and elements of essential newborn care, such as immunization and generate a credential using the SSI model (Evernym SDK). The project comes under the LibreHealth organization for GSOC 2020._
 
 ## Table of contents
 
-- LibreHealth
+- [Readme](#readme)
     - [Table of contents](#table-of-contents)
     - [Getting Started](#getting-started)
     - [Installation](#installation)

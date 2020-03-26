@@ -15,24 +15,24 @@ An android application for healthcare workers in Kenya to capture birth informat
 
 ## ScreenShots
 
-![image 1](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Onboarding%20Screen%201.jpg)
-    
-![image 2](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Onboarding%20Screen%202.jpg)
+[<img src="readme/Onboarding%20Screen%201.jpg" width=240>]
 
-![image 3](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Onboarding%20Screen%203.jpg)
+[<img src="readme/Onboarding%20Screen%202.jpg" width=240>]
+  
+[<img src="readme/Onboarding%20Screen%203.jpg" width=240>]
+   
+[<img src="readme/Fingerprint%20Authentication.jpg" width=240>]
 
-![image 4](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Fingerprint%20Authentication.jpg)
+[<img src="readme/Fingerprint%20verify.jpg" width=240>]
 
-![image 5](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Fingerprint%20verify.jpg)
+[<img src="readme/Fingerprint%20sucess.jpg" width=240>]
 
-![image 6](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Fingerprint%20sucess.jpg)
+[<img src="readme/Birth%20registration%201.jpg" width=240>]
 
-![image 7](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Birth%20registration%201.jpg)
+[<img src="readme/Birth%20registration%202.jpg" width=240>]
 
-![image 8](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Birth%20registration%202.jpg)
+[<img src="readme/Birth%20registration%203.jpg" width=240>]
 
-![image 9](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Birth%20registration%203.jpg)
+[<img src="readme/Birth%20registration%204.jpg" width=240>]
 
-![image 10](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Birth%20registration%204.jpg)
-
-![image 11](https://github.com/ayushnishad/LibreHealth-GSOC-2020/blob/master/readme/Credential%20generated.jpg)
+[<img src="readme/Credential%20generated.jpg" width=240>]

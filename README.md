@@ -36,3 +36,7 @@ An android application for healthcare workers in Kenya to capture birth informat
 <img src="readme/Birth%20registration%204.jpg" width=240>
 
 <img src="readme/Credential%20generated.jpg" width=240>
+
+## Video Tutorial
+
+- [Youtube Link](https://www.youtube.com/watch?v=cuIFqYqCkXo)

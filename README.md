@@ -24,6 +24,7 @@ To run the development environment for this frontend, you need [Git](https://git
 Make sure you have the latest version of [Flutter SDK](https://flutter.dev/docs/get-started/install) installed.
 - `git clone https://github.com/ayushnishad/LibreHealth-GSOC-2020.git`
 - In `cmd` move to the current project directory.
+- Make sure device is connected or emulator is running (run emulator by `flutter emulators --(device name)` command).
 - You can start debugging process by `flutter run` command.
 
 For help getting started with Flutter, view the online

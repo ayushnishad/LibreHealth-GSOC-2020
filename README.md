@@ -19,7 +19,10 @@ To run the development environment for this frontend, you need [Git](https://git
 
 ## Installation
 
-Make sure you have the latest version of [Android Studio](https://developer.android.com/studio) and [Flutter SDK](https://flutter.dev/docs/get-started/install) installed. It is recommended to update all the libraries and sync the project(might take a minute).
+Make sure you have the latest version of [Flutter SDK](https://flutter.dev/docs/get-started/install) installed.
+- `git clone https://github.com/ayushnishad/LibreHealth-GSOC-2020.git`
+- In `cmd` move to the current project directory.
+- You can start debugging process by `flutter run` command.
 
 ## ScreenShots
 

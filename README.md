@@ -1,17 +1,25 @@
 # LibreHealth - GSOC 2020
 
-An android application for healthcare workers in Kenya to capture birth information and elements of essential newborn care, such as immunization and generate a credential using the SSI model (Evernym SDK). The project comes under the LibreHealth organization for GSOC 2020.
+_An android application for healthcare workers in Kenya to capture birth information and elements of essential newborn care, such as immunization and generate a credential using the SSI model (Evernym SDK). The project comes under the LibreHealth organization for GSOC 2020._
+
+## Table of contents
+
+- LibreHealth
+    - [Table of contents](#table-of-contents)
+    - [Getting Started](#getting-started)
+    - [Installation](#installation)
+    - [Screenshots](#screenshots)
+    - [Video Tutorial](#video-tutorial)
 
 ## Getting Started
 
-=> Open your Git Bash command window and in the root directory type the following commands:
+This project is created using [Flutter](https://flutter.dev/) on [Android Studio](https://developer.android.com/studio).
 
-    1) git init -initializes the git repository from the GitHub. 
-    2) git clone -Clone the repository to your local machine
-=> Open your Android IDE:
+To run the development environment for this frontend, you need [Git](https://git-scm.com/) installed.
 
-    1) Open the file at the root directory
-    2) Code your modifications in the project.
+## Installation
+
+Make sure you have the latest version of [Android Studio](https://developer.android.com/studio) and [Flutter SDK](https://flutter.dev/docs/get-started/install) installed. It is recommended to update all the libraries and sync the project(might take a minute).
 
 ## ScreenShots
 

@@ -26,6 +26,9 @@ Make sure you have the latest version of [Flutter SDK](https://flutter.dev/docs/
 - In `cmd` move to the current project directory.
 - You can start debugging process by `flutter run` command.
 
+For help getting started with Flutter, view the online
+[documentation.](http://flutter.io/).
+
 ## ScreenShots
 
 <img src="readme/Onboarding%20Screen%201.jpg" width=240>  <img src="readme/Onboarding%20Screen%202.jpg" width=240>  <img src="readme/Onboarding%20Screen%203.jpg" width=240>

@@ -15,27 +15,13 @@ An android application for healthcare workers in Kenya to capture birth informat
 
 ## ScreenShots
 
-<img src="readme/Onboarding%20Screen%201.jpg" width=240>
+<img src="readme/Onboarding%20Screen%201.jpg" width=240>  <img src="readme/Onboarding%20Screen%202.jpg" width=240>  <img src="readme/Onboarding%20Screen%203.jpg" width=240>
 
-<img src="readme/Onboarding%20Screen%202.jpg" width=240>
+<img src="readme/Fingerprint%20Authentication.jpg" width=240>  <img src="readme/Fingerprint%20verify.jpg" width=240>  <img src="readme/Fingerprint%20sucess.jpg" width=240>
 
-<img src="readme/Onboarding%20Screen%203.jpg" width=240>
+<img src="readme/Birth%20registration%201.jpg" width=240>  <img src="readme/Birth%20registration%202.jpg" width=240>  <img src="readme/Birth%20registration%203.jpg" width=240>
 
-<img src="readme/Fingerprint%20Authentication.jpg" width=240>
-
-<img src="readme/Fingerprint%20verify.jpg" width=240>
-
-<img src="readme/Fingerprint%20sucess.jpg" width=240>
-
-<img src="readme/Birth%20registration%201.jpg" width=240>
-
-<img src="readme/Birth%20registration%202.jpg" width=240>
-
-<img src="readme/Birth%20registration%203.jpg" width=240>
-
-<img src="readme/Birth%20registration%204.jpg" width=240>
-
-<img src="readme/Credential%20generated.jpg" width=240>
+<img src="readme/Birth%20registration%204.jpg" width=240>  <img src="readme/Credential%20generated.jpg" width=240>
 
 ## Video Tutorial
 

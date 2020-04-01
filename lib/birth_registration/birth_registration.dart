@@ -420,8 +420,6 @@ class _BirthRegistrationState extends State<BirthRegistration> {
                   child: Container(
                     padding: EdgeInsets.all(10.0),
                     child: Column(
-                      // mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      // crossAxisAlignment: CrossAxisAlignment.center,
                       children: <Widget>[
                         Padding(
                           padding: EdgeInsets.fromLTRB(20, 20, 20, 10),

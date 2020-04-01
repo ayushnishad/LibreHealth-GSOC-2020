@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:birthpad/info.dart';
-import 'package:birthpad/mypainter.dart';
+import 'package:birthpad/utils/info.dart';
+import 'package:birthpad/utils/mypainter.dart';
 
 class PageOne extends StatelessWidget {
   @override

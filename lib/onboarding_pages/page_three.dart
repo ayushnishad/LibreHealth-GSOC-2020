@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:birthpad/authentication/fingerprint_authentication.dart';
-import 'package:birthpad/info.dart';
-import 'package:birthpad/mypainter.dart';
+import 'package:birthpad/utils/info.dart';
+import 'package:birthpad/utils/mypainter.dart';
 
 class PageThree extends StatelessWidget {
   @override
